@@ -1,4 +1,6 @@
 <% if current_user.present?%>
   <h1>Hola <%= current_user.email%></h1>
+
+<%else%>
+  <h1> ¡Bienvenidos a nuestro Blog!</h1>
 <%end%>
-<%=link_to "Inicio", root_path%>
