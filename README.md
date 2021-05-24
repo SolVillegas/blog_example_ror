@@ -1,3 +1,2 @@
 # README
-blog example with Ruby on Rails Framework
-blog example with Ruby on Rails Framework
+Blog example with Ruby on Rails Framework
